@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Midnight Hunt",
+            "image": "/game.png",
+            "link": "https://midnight-hunt-game.onrender.com/",
+            "link_github": "https://github.com/AlinaPisarenko/JS-endless-runner-game"
+        },
+        {
+            "id": 2,
+            "title": "EcoHome",
+            "image": "/house.png",
+            "link": "https://explore-houses-app-client.onrender.com/",
+            "link_github": "https://github.com/AlinaPisarenko/Nexter-project"
+        },
+        {
+            "id": 3,
+            "title": "JobHub",
+            "image": "/jobhub.png",
+            "link": "https://jobhub-jh4b.onrender.com/",
+            "link_github": "https://github.com/AlinaPisarenko/job-market-website-flask"
+        },
+        {
+            "id": 4,
+            "title": "Magic Memory Game",
+            "image": "/hp-game.png",
+            "link": "https://harry-potter-card-game.onrender.com/",
+            "link_github": "https://github.com/AlinaPisarenko/harry-potter-card-memory-game"
+        }
+    ]
+}
